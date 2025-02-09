@@ -288,7 +288,7 @@ header {
 
 /* Stats Section */
 #stats {
-   background: url(../img/stats-bg.png);
+   background: url(/assets/img/stats-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
    height: 800px;
