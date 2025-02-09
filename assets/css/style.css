@@ -345,7 +345,7 @@ header {
 /* Satay-Section */
 
 #satay {
-   background: url(../img/chicken-satay-bg-black.png);
+   background: url(/assets/img/chicken-satay-bg-black.png);
    background-repeat: no-repeat;
    background-size: cover;
    height: 800px;
@@ -419,7 +419,7 @@ header {
 
 /* Chef Section */
 #chef {
-   background: url(../img/chef-bg.png);
+   background: url(/assets/img/chef-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
    height: 800px;
@@ -460,7 +460,7 @@ header {
 /* Update Section */
 #update {
    height: 800px;
-   background-image: url(../img/update-bg.png);
+   background-image: url(/assets/img/update-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
    border: 2px solid rgb(25, 0, 255);
