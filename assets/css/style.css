@@ -27,7 +27,7 @@
 /* Header Section */
 header {
    height: 800px;
-   background: url(./assets/img/banner-bg.png);
+   background: url(../img/banner-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
    border: 1px solid red;
@@ -460,7 +460,7 @@ header {
 /* Update Section */
 #update {
    height: 800px;
-   background-image: url(./assets/img/update-bg.png);
+   background-image: url(,/assets/img/update-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
    border: 2px solid rgb(25, 0, 255);
